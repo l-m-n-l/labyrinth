@@ -1,0 +1,11 @@
+{
+    "name": "",
+    "version": "",
+    "transport": [""],
+    "defaultApiServer": {
+        "port": 6969
+    },
+    "identity": {
+        
+    }
+}
